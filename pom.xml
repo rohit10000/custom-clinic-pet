@@ -18,7 +18,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>custom-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>custom-pet-clinic</name>
     <description>custom-pet-clinic</description>
     <properties>
@@ -46,7 +46,7 @@
         <developerConnection>
             scm:git:git@github.com:rohit10000/custom-clinic-pet.git
         </developerConnection>
-      <tag>HEAD</tag>
+      <tag>custom-pet-clinic-0.0.2</tag>
   </scm>
 
 </project>
